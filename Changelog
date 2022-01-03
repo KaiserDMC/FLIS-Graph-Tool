@@ -1,4 +1,4 @@
-CURRENT VERSION - Graph Tool v1.7.3 - 2021-07-21 (BAM)
+CURRENT VERSION - Graph Tool v1.7.5 - 2021-12-14 (BAM)
 
 PREVIOUS VERSIONS:
 1/ Graph Tool v1.23 - Demo
@@ -29,6 +29,8 @@ PREVIOUS VERSIONS:
 26/ Graph Tool v1.7.0 - 2021-06-23 (BAM)
 27/ Graph Tool v1.7.1 - 2021-07-08 (BAM)
 28/ Graph Tool v1.7.2 - 2021-07-20 (BAM)
+29/ Graph Tool v1.7.3 - 2021-07-21 (BAM)
+30/ Graph Tool v1.7.4 - 2021-10-25 (BAM)
 
 CHANGELOG:
 1/ Version 1.23 was presented as a short DEMO. Only few facilieties were
@@ -119,4 +121,7 @@ labeling and etc...
 28/ Version 1.7.2 - removed DME Search/Track graphs, as they do not give
 any valuable information and are quite often from, due to the M-file
 structure... Minor header changes...
-29/ Version 1.7.3 - flyability label fix...
+29/ Version 1.7.3 - Flyability graph labels...
+30/ Version 1.7.4 - LOC signal and DME signal colour change for Part Orbit
+31/ Version 1.7.5 - Graph adjustments - uniformity and improved adaption 
+to input data...
