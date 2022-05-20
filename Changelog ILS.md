@@ -1,6 +1,6 @@
 **CURRENT VERSION - Graph Tool v1.8.0 - 2022-05-13 (BAM)**
 
-*PREVIOUS VERSIONS:*
+*PREVIOUS VERSIONS:*  
 1/ Graph Tool v1.23 - Demo  
 2/ Graph Tool v1.3 - Full DB (FLIS 3.0.0.1)  
 3/ Graph Tool v1.4 - Full DB (FLIS 3.0.0.2 and above)  
@@ -36,14 +36,13 @@
 33/ Graph Tool v1.7.7 - 2022-04-06 (BAM)  
 34/ Graph Tool v1.7.8 - 2022-05-10 (BAM)  
 
-***CHANGELOG:***
+***CHANGELOG:***  
 1/ Version 1.23 was presented as a short DEMO. Only few facilieties were
 available. Idea was to check if everything was operational. After some
 minor tweeks the Graph Tool was approved for usage, provided the FI 
 proceeds to using it with caution. - 2019-04-06  
 2/ Version 1.3 implemented full DB with all ILS facilities serviced by
-LFV. The tool was to be used with FLIS versions up until 3.0.0.1.
-- 2019-11-20  
+LFV. The tool was to be used with FLIS versions up until 3.0.0.1. - 2019-11-20  
 3/ Version 1.4 implemented full DB with all ILS facilities serviced by
 LFV. The tool was to be used with FLIS versions after 3.0.0.1. 
 The change was needed as in version 3.0.0.2 additional parameters such
