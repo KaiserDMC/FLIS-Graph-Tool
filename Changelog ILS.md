@@ -65,6 +65,7 @@ selected by the FI inside the 'FormFill' section. Thus versions until
 found that the graphs were not scaling along with the angle as all 
 calcualtions were made for 3 degrees. This will now change based on 
 nominal angle show in the facilities' database. - 2020-02-27  
+
 5/ Version 1.5 2020-03-02 edition - fixed a small bug with graph export.
 During one of the reports it was noticed that the tool will printout all
 graphs and not only the ones that are selected. This issue is now fixed,
