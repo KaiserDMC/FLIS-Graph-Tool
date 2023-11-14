@@ -1,0 +1,22 @@
+﻿<Window x:Class="GraphTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphTool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Left" Width="800">
+        <Grid.Background>
+            <ImageBrush ImageSource="/droot/images/background.jpg"/>
+        </Grid.Background>
+        <Button Content="Proceed" HorizontalAlignment="Left" Height="36" Margin="572,367,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="80" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Source="/droot/images/logo-lfv.png" Stretch="Fill" Opacity="0.5"/>
+        <ListBox HorizontalAlignment="Left" Height="131" Margin="65,272,0,0" VerticalAlignment="Top" Width="128" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <GroupBox HorizontalAlignment="Left" Height="161" Header="Country" Margin="46,250,0,0" VerticalAlignment="Top" Width="166" BorderBrush="#FF2124E0"/>
+        <ListBox HorizontalAlignment="Left" Height="131" Margin="272,272,0,0" VerticalAlignment="Top" Width="128" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <GroupBox HorizontalAlignment="Left" Height="161" Header="Facility Type" Margin="253,250,0,0" VerticalAlignment="Top" Width="166" BorderBrush="#FF2124E0"/>
+        <Label Content="Flight Inspection System (FLIS) - Graph Conversion Tool" HorizontalAlignment="Right" Margin="0,72,64,0" Width="381" FontFamily="Yu Mincho Demibold" Height="34" VerticalAlignment="Top" FontSize="14"/>
+
+    </Grid>
+</Window>
